@@ -1,2 +1,4 @@
 # hero_robot_task
 浙江大学hello world战队，英雄机器人大作业代码
+H7_project使用stm32h723VG,为上位机代码
+C_project使用stm32f407IG,为下位机代码
