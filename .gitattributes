@@ -1,2 +1,4 @@
+build/Debug/.bin filter=lfs diff=lfs merge=lfs -text
+build/Debug/.a filter=lfs diff=lfs merge=lfs -text
 build/Debug/project.bin filter=lfs diff=lfs merge=lfs -text
 build/Debug/libdrivers.a filter=lfs diff=lfs merge=lfs -text
